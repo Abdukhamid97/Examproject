@@ -1,0 +1,212 @@
+body {
+  margin: 0px;
+}
+
+nav {
+  padding: 10px 0px;
+  background-color: #4bd0c2;
+  color: white;
+  text-align: center;
+  font-family: arial;
+}
+
+a {
+  color: white;
+  padding: 0px 10px;
+  font-family: verdana, sans-serif;
+}
+
+footer {
+  background-color: #29aa9c;
+  padding: 18px 5px;
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+}
+
+hr {
+  margin: 50px 0px 50px 0px;
+  border-top: 8px dotted white;
+  border-bottom: none;
+  border-left: 0px;
+  border-right: 0px;
+  width: 12%;
+}
+h2{
+  color: white;
+  font-family: verdana;
+}
+h3{
+  color: grey;
+  font-family: verdana;
+  margin-left: 10px;
+}
+
+.first_line {}
+
+.brend {
+  display: inline-block;
+  font-family: verdana, cursive;
+  color: #3ac5b6;
+  padding: 0px 15px;
+}
+
+.search_box {
+  display: inline-block;
+  width: 300px;
+  padding: 0px 300px;
+}
+
+.box {
+  display: inline-block;
+  padding: 0px 50px;
+  float:right;
+}
+
+.main_page {
+  background-color: #3ac5b6;
+}
+
+.mp_photo {
+  margin: 40px 0px;
+  display: inline-block;
+  max-width: 50%;
+}
+
+.mp_photoself {
+  width: 330px;
+  height: 350px;
+  display: inline-block;
+  float: left;
+  padding: 10px 70px 0px 200px;
+}
+.abvabv {
+  display: inline-block;
+}
+.decription{
+  display: inline-block;
+}
+.mp_description {
+  display: inline-block;
+  max-width: 50%;
+  color: white;
+  font-family: verdana, sans-serif;
+}
+
+.mp_shop {
+  border: 2px solid;
+  border-radius: 7px;
+  width: 150px;
+  border-color: white;
+}
+
+.mp_shopdesc {
+  text-align: center;
+  color: white;
+  font-family: verdana;
+}
+.mpp_1{
+  display: inline-block;
+  margin: 0px 20px 0px;
+}
+.featured_products_page{
+  margin: 40px;
+}
+.fpp_topdesc{
+  margin: 10px 180px;
+  padding: 10px;
+}
+.photo {
+  margin: 0px 50px 0px 100px;
+}
+.mpp_2{
+  display: inline-block;
+  margin: 0px 50px 0px;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  padding: 0px 25px;
+}
+.fpp_top{
+  background-color: #29aa9c;
+}
+.product_photos{
+  display: inline-block;
+  width: 200px;
+  height: 150px;
+  float: left;
+}
+.mp_shop_down{
+  font-family: verdana;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+  width: 70px;
+  height: 20px;
+  padding: 10px;
+  border-radius: 6px;
+  background-color: #3bc596;
+}
+.photo_fpp {
+  display: inline-block;
+  width: 200px;
+  height: 150px;
+}
+.fpp_1line{
+  display: inline-block;
+  border: 1px solid grey;
+  border-bottom: 4px solid green;
+  align-items: center;
+  margin: 10px 20px 10px 30px;
+}
+.fpp_2line{
+  display: inline-block;
+  border: 1px solid grey;
+  border-bottom: 4px solid green;
+  text-align: center;
+  margin: 10px 20px 10px 30px;
+}
+.startt{
+  margin: auto 20px auto 300px;
+}
+.price{
+  display: inline-block;
+  float: left;
+}
+.buy_now{
+  display: inline-block;
+  font-family: verdana;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+  width: 100px;
+  height: 20px;
+  padding: 10px;
+  border-radius: 6px;
+  background-color: #3bc596;
+  margin: 10px;
+
+}
+.description_fpp {
+  display: inline-block;
+  max-width: 50%;
+  color: white;
+  font-family: verdana, sans-serif;
+}
+.foot_page {
+  background-color: #3ac5b6;
+  margin: 0px;
+}
+
+.foot_pagelist {
+  display: inline-block;
+  color: white;
+  font-family: sans-serif;
+  padding: 0px 50px;
+}
+
+.featured {
+  display: inline-block;
+  color: white;
+  font-family: sans-serif;
+  padding: 0px 50px 0px 170px;
+}
